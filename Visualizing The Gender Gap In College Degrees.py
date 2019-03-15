@@ -416,10 +416,3 @@ for sp in range(2, 18, 3):
 pyplot.get_backend()
 pyplot.savefig("gender_degrees.png")
 pyplot.show()
-
-
-# In[ ]:
-
-
-
-
